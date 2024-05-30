@@ -1,0 +1,1 @@
+ /Users/alexistan/Desktop/Flutter/Flutter-todo/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/alexistan/Desktop/Flutter/Flutter-todo/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/alexistan/Desktop/Flutter/Flutter-todo/l10n.yaml /Users/alexistan/Desktop/Flutter/Flutter-todo/lib/src/localization/app_en.arb
